@@ -1,0 +1,6 @@
+#surefire_0
+#Wed Feb 15 13:23:25 EST 2017
+suiteFile=test.xml
+basedir=/Users/agolubev1/Desktop/Chrome/browser
+user.dir=/Users/agolubev1/Desktop/Chrome/browser
+localRepository=/Users/agolubev1/.m2/repository

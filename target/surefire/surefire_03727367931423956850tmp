@@ -1,0 +1,6 @@
+#surefire_0
+#Wed Sep 06 09:52:52 EDT 2017
+suiteFile=chrome60Windows.xml
+basedir=/Users/agolubev1/Desktop/Chrome/browser
+user.dir=/Users/agolubev1/Desktop/Chrome/browser
+localRepository=/Users/agolubev1/.m2/repository
